@@ -1,0 +1,57 @@
+h3{
+    color:antiquewhite;
+}
+
+body {
+    font-family:'Roboto', sans-serif;
+}
+.form {
+
+    margin: 0 auto;
+
+}
+
+.final{
+    text-align: center;
+    margin-top: -4px;
+}
+
+.final h3{
+    color: black;
+
+}
+
+.tarjetastexto {
+    font-weight: 60;
+    color:slategray;
+    font-weight: 60;
+}
+
+.tarjetastextosecun {
+    font-size: 13px;
+    color:slategray;
+    font-weight: 40;
+}
+
+hr{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.precios{
+    text-align: right;
+}
+
+form {
+    margin-top: 0;
+}
+
+
+
+.precio-secundario{
+    font-size: 13px;
+    color:slategray;
+    font-weight: 60;
+
+}
+
